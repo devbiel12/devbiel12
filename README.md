@@ -2,11 +2,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/g4briel_far)
 
-
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=devbiel12&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbiel12&layout=compact)](github.com/devbiel12/devbiel12/README.md)
 
 Tecnologias que costumo utilizar
 
