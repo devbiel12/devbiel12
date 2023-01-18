@@ -1,8 +1,6 @@
 ### Olá! Meu nome é Gabriel, um futuro dev Back-End ✌️ 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/g4briel_far)
-
-
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=devbiel12&show_icons=true&theme=dracula)
 
 Tecnologias que costumo utilizar
