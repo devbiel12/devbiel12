@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/g4briel_far)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbiel12&show_icons=true&theme=radical)
 
 Tecnologias que costumo utilizar
 
