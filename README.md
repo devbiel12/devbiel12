@@ -4,8 +4,6 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=devbiel12&show_icons=true&theme=dracula)
 
-
-
 Tecnologias que costumo utilizar
 
 <div style="display: inline_block"><br/>
