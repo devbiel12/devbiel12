@@ -5,7 +5,7 @@
 
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbiel12&show_icons=true&theme=radical)
-
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbiel12&layout=compact&theme=radical)
 
 Tecnologias que costumo utilizar
