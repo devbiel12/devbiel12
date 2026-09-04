@@ -30,11 +30,13 @@ Tecnologias que costumo utilizar
 <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
 <img align="center" alt="html5" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
+<img align="center" alt="bootstrap" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
+
 </div><br/>
 
 Tecnologias que pretendo aprender
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="bootstrap" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
+
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff"/>
 </div>
